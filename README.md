@@ -1,12 +1,12 @@
 <!-- ![Header](./header-image.png) -->
-<a href="https://www.facebook.com//">
+<a href="https://www.facebook.com/mehediyyzz/">
 <img width="100%" src="./header-image.png" />
 </a>
 
 ## About Me
 
 <p>
-I'm Mehedi Hasan, a MERN Stack Developer with a passion for building innovative and user-friendly web applications. Driven by innovation and a thirst for knowledge, I'm constantly expanding my skillset and exploring new technologies.
+MERN Stack Developer with a passion for building innovative and user-friendly web applications. Driven by innovation and a thirst for knowledge, I'm constantly expanding my skillset and exploring new technologies.
 <br/>
 <br/>
 Built several full-stack MERN applications from scratch.
