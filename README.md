@@ -14,11 +14,10 @@ Continuously learning and exploring new technologies to stay ahead of the curve.
 
 ### My Github Stats:
 
-<div style="display: flex; gap: 2px; flex-wrap: wrap;">
 <a href="https://github.com/mehediy">
-  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mehediy" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=mehediy" />
 </a>
+
 <a href="https://github.com/mehediy">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediy&layout=compact&langs_count=8&card_width=340" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediy&layout=compact&langs_count=8&card_width=340" />
 </a>
-</div>
