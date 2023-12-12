@@ -1,5 +1,6 @@
 ![Header](./header-image.png)
 
+<div style="max-width: 666px">
 I'm Mehedi Hasan, a MERN Stack Developer with a passion for building innovative and user-friendly web applications. Driven by innovation and a thirst for knowledge, I'm constantly expanding my skillset and exploring new technologies.
 
 <!-- ### Highlights: -->
@@ -21,3 +22,5 @@ Continuously learning and exploring new technologies to stay ahead of the curve.
 <a href="https://github.com/mehediy">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediy&layout=compact&langs_count=8&card_width=340" />
 </a>
+
+</div>
