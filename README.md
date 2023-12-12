@@ -1,26 +1,36 @@
-![Header](./header-image.png)
+<!-- ![Header](./header-image.png) -->
+<a href="https://www.facebook.com//">
+<img width="100%" src="./header-image.png" />
+</a>
 
-<div style="max-width: 666px">
+## About Me
+
+<p>
 I'm Mehedi Hasan, a MERN Stack Developer with a passion for building innovative and user-friendly web applications. Driven by innovation and a thirst for knowledge, I'm constantly expanding my skillset and exploring new technologies.
-
-<!-- ### Highlights: -->
-
+<br/>
+<br/>
 Built several full-stack MERN applications from scratch.
 Proficient in implementing various features such as user authentication, data fetching and manipulation, and API integration.
 Continuously learning and exploring new technologies to stay ahead of the curve.
+</p>
 
-### Tech Stack:
+## Current Stats
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mehediy&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### My Github Stats:
+## Tech Stack
 
-<a href="https://github.com/mehediy">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=mehediy" />
-</a>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,firebase" />
+</p>
 
-<a href="https://github.com/mehediy">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediy&layout=compact&langs_count=8&card_width=340" />
-</a>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma" />
+</p>
 
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,cpp,php" />
+</p>
