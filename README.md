@@ -18,7 +18,7 @@ Continuously learning and exploring new technologies to stay ahead of the curve.
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mehediy&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehediy&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Tech Stack
