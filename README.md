@@ -1,17 +1,17 @@
 <!-- ![Header](./header-image.png) -->
-<a href="https://www.facebook.com/mehediyyzz/">
+<a href="https://www.facebook.com/mehediyz/">
 <img width="100%" src="./header-image.png" />
 </a>
 
 ## About Me
 
 <p>
-MERN Stack Developer with a passion for building innovative and user-friendly web applications. Driven by innovation and a thirst for knowledge, I'm constantly expanding my skillset and exploring new technologies.
+MERN Stack Developer with a passion for building innovative and user-friendly web applications. I'm constantly expanding my skillset and exploring new technologies.
 <br/>
 <br/>
 Built several full-stack MERN applications from scratch.
 Proficient in implementing various features such as user authentication, data fetching and manipulation, and API integration.
-Continuously learning and exploring new technologies to stay ahead of the curve.
+Continuously learning and exploring new technologies.
 </p>
 
 ## Current Stats
